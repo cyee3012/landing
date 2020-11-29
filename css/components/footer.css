@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  line-height: 5px;
+  background-color: #36593d;
+  padding: 30px;
+  color: #67a273;
+  margin: 20px 0px 0px 0px;
+}
+
+.footer a {
+  color: #67a273;
+  font-size: 25px;
+}
+
+.footer a:hover {
+    color: #558b60;
+}
+
+.footer p{
+  font-size: 10px;
+}
